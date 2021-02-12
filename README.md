@@ -1,5 +1,5 @@
 # It's my classification model of smiling faces on photo. 
-### The model was trained on 4000 photoes of smiling and not smiling people and used the pretrained resnet34 model. I used transfer learning by finte-tuning resnet34.
+### The model was trained on 4000 photoes of smiling and not smiling people and used the pretrained [resnet34 model](https://arxiv.org/abs/1512.03385). I used transfer learning by fine-tuning resnet34 to my task
 ### It's lauched on Heroku for free. [The link to my website](https://smilephoto.herokuapp.com/). Please, check out!
 
 
